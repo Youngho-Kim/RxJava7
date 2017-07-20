@@ -1,4 +1,4 @@
-###Retrofit을 사용한 RxJava 활용
+###Retrofit을 사용한 RxJava 활용  
 [전체소스코드](https://github.com/Youngho-Kim/RxJava7/blob/master/app/src/main/java/com/fastcampus/kwave/android/rxjava7/MainActivity.java)  
 [소스적용사진](https://github.com/Youngho-Kim/RxJava7/blob/master/Screenshot_20170720-225706.png)
 
